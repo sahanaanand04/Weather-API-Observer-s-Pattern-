@@ -1,0 +1,3 @@
+/workspaces/Weather-API-Observer-s-Pattern-/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Weather-API-Observer-s-Pattern-/build/CMakeFiles/edit_cache.dir
+/workspaces/Weather-API-Observer-s-Pattern-/build/CMakeFiles/weather-api.dir

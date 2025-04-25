@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/workspaces/Weather-API-Observer-s-Pattern-/build",
+  "command": "/usr/bin/g++   -I/workspaces/Weather-API-Observer-s-Pattern-/include  -g   -std=gnu++17 -o CMakeFiles/weather-api.dir/src/WeatherData.cpp.o -c /workspaces/Weather-API-Observer-s-Pattern-/src/WeatherData.cpp",
+  "file": "/workspaces/Weather-API-Observer-s-Pattern-/src/WeatherData.cpp"
+},
+{
+  "directory": "/workspaces/Weather-API-Observer-s-Pattern-/build",
+  "command": "/usr/bin/g++   -I/workspaces/Weather-API-Observer-s-Pattern-/include  -g   -std=gnu++17 -o CMakeFiles/weather-api.dir/src/CurrentConditionsDisplay.cpp.o -c /workspaces/Weather-API-Observer-s-Pattern-/src/CurrentConditionsDisplay.cpp",
+  "file": "/workspaces/Weather-API-Observer-s-Pattern-/src/CurrentConditionsDisplay.cpp"
+},
+{
+  "directory": "/workspaces/Weather-API-Observer-s-Pattern-/build",
+  "command": "/usr/bin/g++   -I/workspaces/Weather-API-Observer-s-Pattern-/include  -g   -std=gnu++17 -o CMakeFiles/weather-api.dir/src/main.cpp.o -c /workspaces/Weather-API-Observer-s-Pattern-/src/main.cpp",
+  "file": "/workspaces/Weather-API-Observer-s-Pattern-/src/main.cpp"
+}
+]

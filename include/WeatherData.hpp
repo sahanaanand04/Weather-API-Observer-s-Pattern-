@@ -3,6 +3,7 @@
 
 #include "ISubject.hpp"
 #include <vector>
+#include <algorithm>
 
 class WeatherData : public ISubject {
 private:

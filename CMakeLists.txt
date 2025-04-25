@@ -7,5 +7,6 @@ include_directories(include)
 
 add_executable(weather-api
     src/WeatherData.cpp
+    src/CurrentConditionsDisplay.cpp
     src/main.cpp
 )

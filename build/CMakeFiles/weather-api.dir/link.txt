@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/weather-api.dir/src/WeatherData.cpp.o CMakeFiles/weather-api.dir/src/CurrentConditionsDisplay.cpp.o CMakeFiles/weather-api.dir/src/main.cpp.o  -o weather-api 
